@@ -1,0 +1,10 @@
+{
+	"status" : "success",
+	"code" : 400,
+	"message" : "The request was success",
+	"data" : {
+		"id": 0001,
+		"description": "Se ha enviado un email al correo ingresado",
+		"email": "correo@gmail.com"
+	}
+}
