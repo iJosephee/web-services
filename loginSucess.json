@@ -1,0 +1,23 @@
+{
+	"status" : "success",
+	"code" : 400,
+    "message" : "The authentication was success",
+	"data" : {
+        "user" : {
+            "id" : "75647",
+            "name" : "Donald",
+            "lastname" : "Trump",
+            "address": "Avenida Siempre Viva",
+            "num_ext": 256,
+            "num_int": 2,
+            "cp": 55234,
+            "id_colony": 26,
+            "id_county": 55,
+            "id_state": 29,
+            "phone": "5598267119",
+            "cel": "5519234112",
+            "email": "donald@presidency.gob",
+            "rfc": "DDTE550119HDFMSR13"
+        }
+	}
+}
